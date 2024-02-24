@@ -5,6 +5,7 @@
 }
 
 header {
+  z-index: 1;
   background-color: #0f0f0f;
   height: 60px;
   display: flex;
